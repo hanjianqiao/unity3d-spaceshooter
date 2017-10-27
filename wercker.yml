@@ -36,7 +36,7 @@ build:
         fingerprint: 98:ab:2b:30:60:00:82:86:bb:85:db:87:22:c4:4f:b1
 
     - add-ssh-key:
-            keyname: saber_coding
+            keyname: Coding
 
     - script:
         name: push to coding
